@@ -1,0 +1,32 @@
+img {
+    border: none;
+    width: 135px;
+    border-radius: 4px;
+}
+
+.card {
+    margin: 100px auto;
+    width: 30%;
+    /* border: 1px solid blue; */
+    border-radius: 2px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #ddebf8;
+    color: #2b2839;
+    border-bottom: 7px solid #d8cefe;
+    font-family: "Playfair Display", serif;
+    font-weight: 800;
+    font-style: normal;
+
+}
+
+.details {
+    /* border: 1px solid black; */
+    text-align: center;
+
+}
+
+.place {
+    text-decoration: solid;
+}
